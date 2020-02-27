@@ -1,19 +1,11 @@
-<article class="baidu_pl">
-        <!--python安装手册开始-->
-                <!--python安装手册结束-->
-                <!--####专栏广告位图文切换开始-->
-                                    <!--####专栏广告位图文切换结束-->
-         <div id="article_content" class="article_content clearfix">
-            <link rel="stylesheet" href="https://csdnimg.cn/release/phoenix/template/css/ck_htmledit_views-833878f763.css">
-                                        <link rel="stylesheet" href="https://csdnimg.cn/release/phoenix/template/css/ck_htmledit_views-833878f763.css">
-                <div class="htmledit_views" id="content_views">
+
 <h1>解题链接更新中，求星星~<h1>
 <h2>去年就做好啦，这几天整理一下，放出来~</h2>
 
 <div class="table-box"><table align="center" border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>&nbsp;</td>
 			<td style="width:537px;">标题</td>
 			<td style="width:120px;">题目链接</td>
-			
+			<td style="width:120px;">题解链接</td>
 		</tr><tr><td>1001</td>
 			<td style="width:537px;">
 			<p>害死人不偿命的(3n+1)猜想 (15)</p>
