@@ -7,11 +7,8 @@
             <link rel="stylesheet" href="https://csdnimg.cn/release/phoenix/template/css/ck_htmledit_views-833878f763.css">
                                         <link rel="stylesheet" href="https://csdnimg.cn/release/phoenix/template/css/ck_htmledit_views-833878f763.css">
                 <div class="htmledit_views" id="content_views">
-                                            <p>有些题做得可能比较拙，有好方法，或者有错误还请告诉我，多多指教=.=</p>
-
-<p>思路比较好的题目我都有讲的很详细。</p>
-
-<p>另外有四道题没有写，自己的解法出了一些问题，而其他人的基本都一致，就暂时不看了</p>
+<h1>解题链接更新中，求星星~<h1>
+<h2>去年就做好啦，这几天整理一下，放出来~</h2>
 
 <div class="table-box"><table align="center" border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>&nbsp;</td>
 			<td style="width:537px;">标题</td>
