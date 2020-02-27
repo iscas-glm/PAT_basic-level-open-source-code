@@ -1,6 +1,6 @@
 
-<h1>解题链接更新中，求星星~<h1>
-<h2>去年就做好啦，这几天整理一下，放出来~</h2>
+<p>解题链接更新中，求星星~</p>
+<p>去年就做好啦，这几天整理一下，放出来~</p>
 
 <div class="table-box"><table align="center" border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>&nbsp;</td>
 			<td style="width:537px;">标题</td>
