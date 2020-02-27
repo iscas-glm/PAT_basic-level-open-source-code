@@ -13,7 +13,7 @@
 <div class="table-box"><table align="center" border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>&nbsp;</td>
 			<td style="width:537px;">标题</td>
 			<td style="width:120px;">题目链接</td>
-			<td style="width:82px;">解题链接</td>
+			
 		</tr><tr><td>1001</td>
 			<td style="width:537px;">
 			<p>害死人不偿命的(3n+1)猜想 (15)</p>
