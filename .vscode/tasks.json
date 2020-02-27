@@ -1,0 +1,65 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "g++ build",
+            "type": "shell",
+            "command": "g++",               //g++命令
+            "args": [
+                "-g",                       //debug
+                "${file}",                  //需要编译的文件
+                "-o",                       //输出
+                "${fileDirname}\\main.exe"  //输出程序的绝对路径
+                                            //注：launch文件中的 "program": "${fileDirname}\\main.exe"路径 要与 此路径对应
+            ],                              //否则无法调试
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            // "problemMatcher": [          //C/C++插件提供的problemMatcher，文件路径有问题，会出现找不到文件的错误
+            //     "$gcc"
+            // ]
+            "problemMatcher": {             //自己编写的，正常运行
+                "owner": "cpp",
+                "fileLocation": [
+                    "relative",
+                    "\\"
+                ],
+                "pattern": {
+                    "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
+                    "file": 1,
+                    "line": 2,
+                    "column": 3,
+                    "severity": 4,
+                    "message": 5
+                }
+            }
+        },
+        {
+            "label": "g++ make",
+            "type": "shell",
+            "command": "make",
+            "args": [],
+            // "problemMatcher": [
+            //     "$gcc"
+            // ]
+            "problemMatcher": {
+                "owner": "cpp",
+                "fileLocation": [
+                    "relative",
+                    "\\"
+                ],
+                "pattern": {
+                    "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
+                    "file": 1,
+                    "line": 2,
+                    "column": 3,
+                    "severity": 4,
+                    "message": 5
+                }
+            }
+        }
+    ]
+}
