@@ -429,46 +429,4 @@
                                                 <div class="more-toolbox">
                 <div class="left-toolbox">
                     <ul class="toolbox-list">
-                        
-                        <li class="tool-item tool-active is-like "><a href="javascript:;"><svg class="icon" aria-hidden="true">
-                            <use xlink:href="#csdnc-thumbsup"></use>
-                        </svg><span class="name">点赞</span>
-                        <span class="count">9</span>
-                        </a></li>
-                        <li class="tool-item tool-active is-collection "><a href="javascript:;" data-report-click="{&quot;mod&quot;:&quot;popu_824&quot;}"><svg class="icon" aria-hidden="true">
-                            <use xlink:href="#icon-csdnc-Collection-G"></use>
-                        </svg><span class="name">收藏</span></a></li>
-                        <li class="tool-item tool-active is-share"><a href="javascript:;"><svg class="icon" aria-hidden="true">
-                            <use xlink:href="#icon-csdnc-fenxiang"></use>
-                        </svg>分享</a></li>
-                        <!--打赏开始-->
-                                                <!--打赏结束-->
-                                                <li class="tool-item tool-more">
-                            <a>
-                            <svg t="1575545411852" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5717" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><defs><style type="text/css"></style></defs><path d="M179.176 499.222m-113.245 0a113.245 113.245 0 1 0 226.49 0 113.245 113.245 0 1 0-226.49 0Z" p-id="5718"></path><path d="M509.684 499.222m-113.245 0a113.245 113.245 0 1 0 226.49 0 113.245 113.245 0 1 0-226.49 0Z" p-id="5719"></path><path d="M846.175 499.222m-113.245 0a113.245 113.245 0 1 0 226.49 0 113.245 113.245 0 1 0-226.49 0Z" p-id="5720"></path></svg>
-                            </a>
-                            <ul class="more-box">
-                                <li class="item"><a class="article-report">文章举报</a></li>
-                            </ul>
-                        </li>
-                                            </ul>
-                </div>
-                            </div>
-            <div class="person-messagebox">
-                <div class="left-message"><a href="https://blog.csdn.net/qq_40946921">
-                    <img src="https://profile.csdnimg.cn/3/7/A/3_qq_40946921" class="avatar_pic" username="qq_40946921">
-                                            <img src="https://g.csdnimg.cn/static/user-reg-year/2x/2.png" class="user-years">
-                                    </a></div>
-                <div class="middle-message">
-                                        <div class="title"><span class="tit"><a href="https://blog.csdn.net/qq_40946921" data-report-click="{&quot;mod&quot;:&quot;popu_379&quot;}" target="_blank">Italink</a></span>
-                                            </div>
-                    <div class="text"><span>发布了375 篇原创文章</span> · <span>获赞 150</span> · <span>访问量 15万+</span></div>
-                </div>
-                                <div class="right-message">
-                                            <a href="https://bbs.csdn.net/topics/395526640" target="_blank" class="btn btn-sm btn-red-hollow bt-button personal-messageboard">他的留言板
-                        </a>
-                                                            <a class="btn btn-sm  bt-button personal-watch" data-report-click="{&quot;mod&quot;:&quot;popu_379&quot;}">关注</a>
-                                    </div>
-                            </div>
-                    </div>
-    </article>
+
